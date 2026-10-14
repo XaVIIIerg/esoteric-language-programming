@@ -585,3 +585,81 @@ KTHXBYE
 
 ## Résultats des tests sur le dernier code : 
 p2.lol : 2 réussite(s), 4 échec(s).
+
+
+# Résultats du run.sh 
+
+OK     p.lol / 01.in
+OK     p1.lol / 01.in
+OK     p2.lol / 01.in
+OK     p.lol / 02.in
+OK     p1.lol / 02.in
+OK     p2.lol / 02.in
+OK     p.lol / 03.in
+OK     p1.lol / 03.in
+--- /root/lolcode-projet/tests/03.out   2026-10-13 23:02:39.893944348 +0200
++++ /tmp/tmp.wrLmbMz8v0/p2_03.actual    2026-10-14 14:10:16.644848014 +0200
+@@ -1 +1 @@
+-2
++None !
+ÉCHEC p2.lol / 03.in : la sortie ne correspond pas à 03.out
+OK     p.lol / 04.in
+OK     p1.lol / 04.in
+--- /root/lolcode-projet/tests/04.out   2026-10-13 23:02:34.739740185 +0200
++++ /tmp/tmp.wrLmbMz8v0/p2_04.actual    2026-10-14 14:10:16.655381164 +0200
+@@ -1,3 +1 @@
+-2
+-3
+-5
++None !
+ÉCHEC p2.lol / 04.in : la sortie ne correspond pas à 04.out
+OK     p.lol / 05.in
+OK     p1.lol / 05.in
+--- /root/lolcode-projet/tests/05.out   2026-10-13 23:02:30.405302215 +0200
++++ /tmp/tmp.wrLmbMz8v0/p2_05.actual    2026-10-14 14:10:16.655381164 +0200
+@@ -1,6 +1 @@
+-2
+-3
+-5
+-7
+-11
+-13
++None !
+ÉCHEC p2.lol / 05.in : la sortie ne correspond pas à 05.out
+OK     p.lol / 06.in
+OK     p1.lol / 06.in
+--- /root/lolcode-projet/tests/06.out   2026-10-13 18:02:56.260417415 +0200
++++ /tmp/tmp.wrLmbMz8v0/p2_06.actual    2026-10-14 14:10:16.665914310 +0200
+@@ -1,25 +1 @@
+-2
+-3
+-5
+-7
+-11
+-13
+-17
+-19
+-23
+-29
+-31
+-37
+-41
+-43
+-47
+-53
+-59
+-61
+-67
+-71
+-73
+-79
+-83
+-89
+-97
++None !
+ÉCHEC p2.lol / 06.in : la sortie ne correspond pas à 06.out
+
+Bilan par programme :
+p.lol : 6 réussite(s), 0 échec(s).
+p1.lol : 6 réussite(s), 0 échec(s).
+p2.lol : 2 réussite(s), 4 échec(s).
