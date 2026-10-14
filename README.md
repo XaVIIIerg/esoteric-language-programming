@@ -13,5 +13,7 @@ pour lancer uniquement p : lancer lci p.lol, puis entrer n s
 ou n est la valeur que vous souhaitez donner au programme
 
 # Comportements que la spécification du langage laisse ouverts
+On ne peut pas créer de boucle for commençant par autre chose que 0.
+
 # Autre utilisation d'un outil IA 
 Claude a été utilisé pour pouvoir bien configurer vscode et git dans wsl pour le projet, notamment pour savoir ou download l'interpréteur et le compilateur 
